@@ -18,7 +18,7 @@ class ErrorHandler(metaclass=abc.ABCMeta):
     @abc.abstractmethod
     def check_error(self, event):
         # subClaas 반드시 오버라이드 되어야 한다
-        # Explicitly about subtypeing.
+        # Explicitly about subtyping.
         pass
 
 

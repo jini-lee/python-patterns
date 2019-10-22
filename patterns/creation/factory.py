@@ -4,7 +4,7 @@ import psycopg2
 
 class PostgresClient():
     def __init__(self):
-        self.db = "mysql"
+        self.db = "postgres"
     
     def get_client():
         return connection = psycopg2.connect(

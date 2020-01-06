@@ -1,4 +1,4 @@
-# pypatterns
+# Python Patterns
 
 ## 목적
 * 각종 디자인패턴을 실무에 어떻게 적용할 수 있을지 고민해봅니다.
